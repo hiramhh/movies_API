@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hiramhh/movies_API/issues"
   },
-  "homepage": "https://github.com/hiramhh/movies_API#readme"
+  "homepage": "https://github.com/hiramhh/movies_API#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
